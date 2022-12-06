@@ -1,11 +1,16 @@
 # Hello World
 # This is my webpage
 
-# Rainbow
+# Colors.
 
-# Red and orange. What color is that?
+# Red and yellow. What color is that?
+# orange
+
 # Blue and red. What color is that?
-# Green and blue. What color is that?
+# purple
+
+# Blue and yellow. What color is that?
+# green
 
 
 
