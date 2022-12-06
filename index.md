@@ -14,8 +14,8 @@
 # green
 
 
-# Colors.
-<img src="colors4.png">
+# Color.
+<img src="colors3.png">
 
 
 
