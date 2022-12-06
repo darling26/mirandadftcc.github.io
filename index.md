@@ -15,7 +15,7 @@
 
 
 # Color.
-<img src="colors3.png">
+<img src="color3.jfif">
 
 
 
