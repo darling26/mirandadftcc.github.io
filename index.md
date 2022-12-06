@@ -2,6 +2,7 @@
 # This is my webpage
 
 # Colors.
+<img src="colors.png">
 
 # Red and yellow. What color is that?
 # orange
