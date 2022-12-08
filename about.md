@@ -13,7 +13,7 @@
 
 # I love margaritas.
 
-<img src="images.jfif"></img>
+<img src="images.jfif">
 
 
 
